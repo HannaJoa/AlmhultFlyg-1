@@ -9,6 +9,7 @@ public class MainClass {
 		String string = "Test";
 		System.out.println(string);
 		String string ="testbranch";
+		String string ="två";
 	}
 
 }
